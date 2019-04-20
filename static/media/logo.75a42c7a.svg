@@ -1,0 +1,16 @@
+<svg width="707.1" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_1" points="0,150 0,50 86.6,0 173.2,50 173.2,150 86.6,200 " fill="#61DAFB"/>
+  <polygon id="svg_2" points="86.6,133.3 57.7,116.7 57.7,83.3 86.6,66.7 115.5,83.3 144.3,66.7 86.6,33.3 28.9,66.7 28.9,133.3   86.6,166.7 144.3,133.3 115.5,116.7 " fill="#FFFFFF"/>
+  <polygon fill="black" id="svg_3" points="0,50 86.6,100 86.6,0 " stroke-miterlimit="10" stroke="#FFFFFF" opacity="0.04"/>
+  <polygon fill="#ff7f00" id="svg_4" points="0,150 86.6,200 86.6,100 " stroke-miterlimit="10" stroke="#FFFFFF" opacity="0.04"/>
+  <polygon fill="black" id="svg_5" points="86.6,100 173.2,150 173.2,50   " stroke-miterlimit="10" stroke="#FFFFFF" opacity="0.08"/>
+  <polygon fill="black" id="svg_6" points="86.6,100 0,50 0,150 " fill-opacity="0"/>
+  <polygon fill="black" id="svg_7" points="174.1999969482422,150 87.5999984741211,100 87.5999984741211,200 " stroke-miterlimit="10" stroke="#FFFFFF" opacity="0.08"/>
+  <polygon fill="black" id="svg_8" points="173.1999969482422,49 86.5999984741211,-1 86.5999984741211,99 " stroke-miterlimit="10" stroke="#FFFFFF" opacity="0.08"/>
+  <g id="svg_9">
+   <text  transform="matrix(5.282304871169897,0,0,4.4944701611946405,-809.994332480519,-236.5180647311134) " xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="35" id="svg_16" y="83.366667" x="213.626052" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#3f3f3f">VGo</text>
+  </g>
+ </g>
+</svg>
